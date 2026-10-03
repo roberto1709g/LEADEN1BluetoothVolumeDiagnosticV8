@@ -1,4 +1,4 @@
-package com.leaden1.bluetoothdiagnostic.v7;
+package com.leaden1.bluetoothdiagnostic.v8;
 
 import android.Manifest;
 import android.annotation.SuppressLint;
